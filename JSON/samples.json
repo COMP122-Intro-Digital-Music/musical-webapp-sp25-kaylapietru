@@ -1,25 +1,25 @@
 [
   {
-    "name": "Sample-1",
-    "file": "samples/Sample_1.mp3",
-    "bpm": 120,
-    "loop": "1m",
+    "name": "Piano_Sample",
+    "file": "samples/Piano_Sample.wav",
+    "bpm": "120",
+    "loop": "8m",
     "grain": 0.04,
     "overlap": 0.01
   },
   {
-    "name": "Sample-2",
-    "file": "samples/Sample_2.mp3",
+    "name": "Guitar_Sample",
+    "file": "samples/Guitar_Sample.wav",
     "bpm": 120,
-    "loop": "1m",
+    "loop": "8m",
     "grain": 0.04,
     "overlap": 0.01
   },
   {
-    "name": "Sample-3",
-    "file": "samples/Sample_3.mp3",
+    "name": "Drums_Sample",
+    "file": "samples/Drums_Sample.wav",
     "bpm": 120,
-    "loop": "1m",
+    "loop": "8m",
     "grain": 0.04,
     "overlap": 0.01
   }
