@@ -1,7 +1,7 @@
 [
   {
     "name": "Piano_Sample",
-    "file": "samples/Piano_Sample.wav",
+    "file": "samples/Sample-1.wav",
     "bpm": "120",
     "loop": "8m",
     "grain": 0.04,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Guitar_Sample",
-    "file": "samples/Guitar_Sample.wav",
+    "file": "samples/Sample-2.wav",
     "bpm": 120,
     "loop": "8m",
     "grain": 0.04,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Drums_Sample",
-    "file": "samples/Drums_Sample.wav",
+    "file": "samples/Sample-3.wav",
     "bpm": 120,
     "loop": "8m",
     "grain": 0.04,
