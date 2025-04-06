@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "name": "Sequence 1",
+    "loop": "3:3:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:1:0.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sequence 2",
+    "loop": "3:3:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "3:2:0.0",
+        "pitch": "D3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:2:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "D5",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
