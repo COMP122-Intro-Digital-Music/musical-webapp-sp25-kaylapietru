@@ -1,0 +1,35 @@
+[
+  {
+    "name": "The Generator",
+    "pitchSet": {
+      "state": "C3",
+      "matrix": {
+        "C4": [
+          "C4"
+        ],
+        "C3": [
+          "C3"
+        ],
+        "C5": [
+          "C5"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n",
+          "2n."
+        ],
+        "2n.": [
+          "2n.",
+          "1n"
+        ],
+        "1n": [
+          "1n"
+        ]
+      }
+    }
+  }
+]
